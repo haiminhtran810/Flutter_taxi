@@ -1,0 +1,4 @@
+#Mon Jun 10 17:38:22 ICT 2019
+base.0=/home/sun/TMA/Demo/flutter_app_list/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
